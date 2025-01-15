@@ -1,59 +1,90 @@
-<h1 align="center">Hi 👋, I'm Ankit Tiwari</h1>
-<h3 align="center">"Passionate about building impactful software with precision and innovation.</h3>
+![148280039-301b677b-74e7-49f8-af75-15e7c9253d74](https://github.com/user-attachments/assets/5a740b41-6920-4a46-a2ad-47d9f388bf1a)<!-- Banner Image -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aankitxplore&label=Profile%20views&color=0e75b6&style=flat" alt="aankitxplore" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ankit122135" target="blank"><img src="https://img.shields.io/twitter/follow/@ankit122135?logo=twitter&style=for-the-badge" alt="@ankit122135" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](Portfolio)
+# Hi, I'm Ankit Tiwari 👋
 
-- 🌱 I’m currently learning **ReactMaster , NodeJSPro , BlockchainBasics , AIandMLJourney , WebDevAdvanced , FullStackFusion , JavaMastery ,PythonForGSoC**
+Welcome to my GitHub profile! I'm a passionate **Web Developer** and **B.Tech student** from **Gurgaon, Haryana**. I specialize in building **full-stack web applications** with modern, responsive designs and a focus on creating impactful software. I'm currently working on improving my **Python** skills for **GSoC 2025**.
 
-- 👯 I’m looking to collaborate on [CollabForge](CollabForge)
-
-- 🤝 I’m looking for help with [CodeElevate](CodeElevate)
-
-- 📝 I regularly write articles on [https://medium.com/@tiwariankit5597](https://medium.com/@tiwariankit5597)
-
-- ❓ ask me about **Web development (React, Node.js, Express) Blockchain and smart contracts Full-stack development Java, JavaScript, Python Open-source contributions GSoC (Google Summer of Code) preparation Building impactful software and solving real-world problems**
-
-- 📫 How to reach me **LinkedIn: [www.linkedin.com/in/ ankit-tiwari-198772240] Email: [tiwariankit5597@gmail.com] Twitter: [https://x.com/Ankit122135]**
-
-- ⚡ Fun fact **I’m on a mission to turn coffee into code and ideas into impactful software.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ankit122135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankit122135" height="30" width="40" /></a>
-<a href="https://fb.com/ankit tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/brahman_.ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahman_.ankit" height="30" width="40" /></a>
-<a href="https://medium.com/@ankit_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankit_tech" height="30" width="40" /></a>
+<p align="right">
+  <img src="![212749171-b84692a8-2b04-4e3b-93ca-ac14705da224](https://github.com/user-attachments/assets/47b8315a-db5b-47ef-a823-9c344b8394cc)
+" width="150" height="150" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aankitxplore&show_icons=true&locale=en&layout=compact" alt="aankitxplore" /></p>
+- 🌱 **Currently learning** Python for GSoC 2025 preparation.
+- 💻 Building **full-stack web applications** with **React.js, Node.js, and Express.js**.
+- 🎓 **3rd-year** **B.Tech** student, constantly honing my skills and working on new projects.
+- 📚 Passionate about **Blockchain** and excited to explore its potential.
+- 📝 Writing blogs to guide fellow **Tier-3 students** on their development journeys.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aankitxplore&show_icons=true&locale=en" alt="aankitxplore" /></p>
+## 🧠 Java Data Structures & Algorithms
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aankitxplore&" alt="aankitxplore" /></p>
-## Hi there 👋
+I have a strong foundation in Java DSA, with experience in implementing various data structures and algorithms. Here are some of my notable projects:
 
-<!--
-**AnkitXplore/AnkitXplore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Java DSA Library](https://github.com/harshjoshi1312/JAVA-DSA)
+A comprehensive library offering efficient implementations of essential data structures and algorithms in Java. Perfect for both educational purposes and real-world applications.
 
-Here are some ideas to get you started:
+### [DSA Bootcamp Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+Code samples, assignments, and notes from the Java data structures & algorithms bootcamp, covering a wide range of topics and interview preparation materials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Java DSA Repository](https://github.com/Anshika2509/Data-Structures-and-Algorithm-JAVA)
+A repository dedicated to helping developers master the fundamental principles of Data Structures and Algorithms using Java, with clear explanations and code examples.
+
+## 🌟 Technologies & Tools
+
+### Frontend
+- **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Three.js**, **Tailwind CSS**
+
+### Backend
+- **Node.js**, **Express.js**, **Python** (for GSoC), **Django**
+
+### Database
+- **MongoDB**, **MySQL**, **Firebase**
+
+### Tools & Platforms
+- **Git**, **GitHub**, **VS Code**, **Postman**, **Figma**, **Docker**, **AWS**, **Heroku**
+
+## 🛠️ Latest Projects
+
+### [Portfolio Website](https://github.com/AnkitXplore/portfolio)
+A responsive, 3D aesthetic portfolio that highlights my work and achievements with animations and interactive elements.
+
+- **Tech Stack:** HTML, CSS, JavaScript, React.js, Three.js
+- **Description:** A modern, visually stunning portfolio website showcasing my projects, skills, and experience, featuring smooth scrolling and 3D animations.
+
+### [E-commerce Platform](https://github.com/AnkitXplore/e-commerce-platform)
+A full-stack e-commerce app with user authentication, product catalog, and payment gateway integration.
+
+- **Tech Stack:** Node.js, Express.js, MongoDB, React.js, Stripe API
+- **Description:** A fully functional e-commerce platform allowing users to browse products, add them to the cart, and complete purchases with Stripe payment integration.
+
+### [Blog Platform](https://github.com/AnkitXplore/blog-website)
+A dynamic blog website that allows users to create, edit, and share articles with comment functionality.
+
+- **Tech Stack:** Node.js, Express.js, MongoDB, React.js
+- **Description:** A platform for users to write, publish, and share their blogs. It includes features like user authentication and real-time commenting.
+
+## 📈 GitHub Stats
+
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitXplore&show_icons=true&theme=radical)
+
+## 🏆 Most Used Languages
+
+![Ankit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitXplore&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+- **LinkedIn:** [Ankit's LinkedIn](https://www.linkedin.com/in/ankit-tiwari-198772240)
+- **Medium:** [Ankit's Blog](https://medium.com/@tiwariankit5597)
+- **Twitter:** [@tiwariankit5597](https://twitter.com/tiwariankit5597)
+- **Email:** tiwariankit5597@gmail.com
+
+## 💬 Let's Connect!
+
+Feel free to reach out to me if you have any questions, want to collaborate, or just want to chat about tech! I'll be happy to connect.
+
+---
+
+*"Passionate about building impactful software with precision and innovation."*
